@@ -5,7 +5,7 @@ A demo of how to use MQTT with Tessel to publish climate information
 
 ### Installation
 
-npm install mqtt-climate
+`npm install mqtt-climate`
 
 ### Configuration
 
